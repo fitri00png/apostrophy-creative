@@ -1,5 +1,5 @@
 {
-  "name": "apostrophy-premium",
+  "name": "apostrophy-purecss",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,10 +10,5 @@
     "next": "14.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.4.1",
-    "postcss": "^8.4.35",
-    "autoprefixer": "^10.4.17"
   }
 }
